@@ -1,0 +1,22 @@
+Lint Code #3: Commit a1b2c3d pushed by <username>   -- Success
+
+Job: Lint Python files
+  Set up job
+  Run actions/checkout@v4
+  Run actions/setup-python@v5
+  Run pip install flake8
+  Run flake8 server/djangoapp --count --show-source --statistics
+  0
+  Post Run actions/checkout@v4
+  Complete job
+
+Job: Lint JavaScript files
+  Set up job
+  Run actions/checkout@v4
+  Run actions/setup-node@v4
+  Run npm install jshint --global
+  Run find ./server/database -name "*.js" -not -path "*/node_modules/*" -exec jshint {} +
+  Post Run actions/checkout@v4
+  Complete job
+
+All jobs have succeeded

@@ -1,0 +1,2 @@
+$ curl https://user-8000.theiadockernext-1-labs-prod.proxy.cognitiveclass.ai/djangoapp/reviews/dealer/15
+{"status":200,"reviews":[{"id":1,"name":"Berkly Shepley","dealership":15,"review":"Great service!","purchase":true,"purchase_date":"07/11/2020","car_make":"Audi","car_model":"A6","car_year":2020,"sentiment":"positive"}]}

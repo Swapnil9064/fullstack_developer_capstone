@@ -1,0 +1,2 @@
+$ curl https://user-8000.theiadockernext-1-labs-prod.proxy.cognitiveclass.ai/djangoapp/get_dealers
+{"status":200,"dealers":[{"id":1,"city":"El Paso","state":"Texas","st":"TX","address":"3 Nova Court","zip":"88563","lat":"31.6948","long":"-106.3","short_name":"Holdlamis","full_name":"Holdlamis Car Dealership"},{"id":15,"city":"Topeka","state":"Kansas","st":"KS","address":"7 Hazelcrest Place","zip":"66604","lat":"39.0558","long":"-95.6894","short_name":"Fiat of Topeka","full_name":"Fiat of Topeka"}]}

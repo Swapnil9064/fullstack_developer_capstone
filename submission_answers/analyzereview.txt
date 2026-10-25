@@ -1,0 +1,2 @@
+$ curl https://user-5050.theiadockernext-1-labs-prod.proxy.cognitiveclass.ai/analyze/Fantastic%20services
+{"sentiment":"positive"}

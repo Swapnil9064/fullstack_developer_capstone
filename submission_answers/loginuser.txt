@@ -1,0 +1,2 @@
+$ curl -X POST https://user-8000.theiadockernext-1-labs-prod.proxy.cognitiveclass.ai/djangoapp/login -H "Content-Type: application/json" -d '{"userName":"root","password":"<your-password>"}'
+{"userName":"root","status":"Authenticated"}

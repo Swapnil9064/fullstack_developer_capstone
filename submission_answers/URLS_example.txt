@@ -1,0 +1,5 @@
+Task 1: https://github.com/<username>/xrwvm-fullstack_developer_capstone/blob/main/README.md
+Task 3: https://github.com/<username>/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/static/About.html
+Task 4: https://github.com/<username>/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/static/Contact.html
+Task 7: https://github.com/<username>/xrwvm-fullstack_developer_capstone/blob/main/server/frontend/src/components/Register/Register.jsx
+(Repo ka naam wahi rakho jo tumne fork kiya; <username> ki jagah apna GitHub username.)

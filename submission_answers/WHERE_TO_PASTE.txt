@@ -1,0 +1,9 @@
+T1  README URL            T2  django_server.txt     T3  About.html URL     T4  Contact.html URL
+T5  loginuser.txt         T6  logoutuser.txt        T7  Register.jsx URL
+T8  getdealerreviews.txt  T9  getalldealers.txt     T10 getdealerbyid.txt  T11 getdealersbyState.txt
+T12 admin_login.png       T13 admin_logout.png
+T14+15 getallcarmakes.txt T16 analyzereview.txt
+T17 get_dealers.png  T18 get_dealers_loggedin.png  T19 dealersbystate.png  T20 dealer_id_reviews.png
+T21 dealership_review_submission.png  T22 added_review.png
+T23 CICD.txt  T24 deploymentURL.txt
+T25 deployed_landingpage.png  T26 deployed_loggedin.png  T27 deployed_dealer_detail.png  T28 deployed_add_review.png

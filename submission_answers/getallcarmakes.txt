@@ -1,0 +1,2 @@
+$ curl https://user-8000.theiadockernext-1-labs-prod.proxy.cognitiveclass.ai/djangoapp/get_cars
+{"CarModels":[{"CarModel":"Pilot","CarMake":"Honda"},{"CarModel":"Accord","CarMake":"Honda"},{"CarModel":"Camry","CarMake":"Toyota"},{"CarModel":"Corolla","CarMake":"Toyota"},{"CarModel":"A6","CarMake":"Audi"},{"CarModel":"Model S","CarMake":"Tesla"}]}

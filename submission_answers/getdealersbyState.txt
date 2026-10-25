@@ -1,0 +1,2 @@
+$ curl https://user-8000.theiadockernext-1-labs-prod.proxy.cognitiveclass.ai/djangoapp/get_dealers/Kansas
+{"status":200,"dealers":[{"id":15,"city":"Topeka","state":"Kansas","st":"KS","address":"7 Hazelcrest Place","zip":"66604","short_name":"Fiat of Topeka","full_name":"Fiat of Topeka"},{"id":37,"city":"Wichita","state":"Kansas","st":"KS","address":"2 Sutherland Way","zip":"67205","short_name":"Wichita Motors","full_name":"Wichita Motors"}]}
